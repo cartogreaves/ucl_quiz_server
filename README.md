@@ -1,5 +1,7 @@
 # Location Based Quiz - Setup and Server
-Components necessary include
+The overall aim of this project is to create a location based quiz as an android application, where the users location is a key component is using the quiz. Using bitvise as a FTP, repositories have been created for both **[quiz mobile application](https://github.com/RJHCarto/Quiz)** and **[question web application](https://github.com/RJHCarto/Questions)**. Material design lite framework has been manipulated to create responsive, clean and aesthetic applications.
+
+Components necessary include:
 - **[Node.js - httpServer](https://github.com/RJHCarto/Server)**
 - **[Question 'Creator' Web Application](https://github.com/RJHCarto/Questions)**
 - **[Quiz 'Quizlet' Mobile Application](https://github.com/RJHCarto/Questions)**
@@ -50,3 +52,10 @@ node httpServer.js &
 ```
 You will now be able to open the application in Android. 
 Access the user guide in app to find out how it works.
+
+## Repositories of interest
+Links to the following tools used for this application:
+- **[Node.js](https://github.com/nodejs)**
+- **[PhoneGap](https://github.com/phonegap)**
+- **[Material Design Lite](https://github.com/google/material-design-lite)**
+- **[Leaflet](https://github.com/Leaflet/Leaflet)**
