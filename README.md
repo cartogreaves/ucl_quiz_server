@@ -39,7 +39,9 @@ phonegap serve
 View the web application here: https://http://developer.cege.ucl.ac.uk:31290/
 
 ### Quiz Application
-Access this mobile application via **[this]()** link, or via the QR code below. You may need developer settings turned on, see **[this](https://developer.android.com/studio/debug/dev-options)** guide.
+Access this mobile application via **[this](https://build.phonegap.com/apps/3154790/share)** link, or via the QR code below. You may need developer settings turned on, see **[this](https://developer.android.com/studio/debug/dev-options)** guide.
+
+![alt text](https://github.com/RJHCarto/Server/blob/master/AppQR.png)
 
 Next, ensure your httpServer.js is running, as per previous instructions.
 ```
